@@ -6,8 +6,9 @@ The markdown ".md" files in the [/docs/](https://github.com/Physics-50/Module-1/
 
 
 ### Instructor To Do List:
-- [ ] overview of Module 1
+- [X] overview of Module 1
 - [ ] Week 1 Checkpoint - Exploratory Measurements
 - [ ] write-up for block on a ramp 
 - [ ] Week 2 Checkpoint - Data & Hypothesis Testing
 - [ ] Week 3 Communication 
+- [ ] Guide to creating figures
