@@ -114,7 +114,7 @@ $$ =\sqrt{(15.37344 cm^3)^2+ (2.41152 cm^3)^2}= 15.56 \textrm{cm}^3 $$
 Therefore $$V_\mathrm{cone}=(61 \pm 16) \textrm{cm}^3$$
 
 
-Bonus: What measurement’s uncertainty was dominant in our uncertainty in the volume of the cone, $latex r$ or $$h$$? 
+Bonus: What measurement’s uncertainty was dominant in our uncertainty in the volume of the cone, $$r$$ or $$h$$? 
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) Solution: </summary>
