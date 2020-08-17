@@ -82,23 +82,14 @@ Prof. Gerbode explains how to propagate uncertainties from a measured quantity t
 
 --------
 
-Try another example:
+#### Mini-question
 The radius of a circle is measured to be $$2.4 \pm 0.3 \textrm{cm}$$. What is the area of the circle?
 
-<details>
-<summary markdown='span'> (try it first, then click to expand/collapse) Solution: </summary>
-
-The area of the circle is $$ A = \pi r^2=\pi (2.4 \textrm{cm})^2= 18.0864 \textrm{cm}^2$$. But what is the uncertainty?
-
-$$ \delta A = {\delta r}\frac {\partial A}{\partial r} = {\delta r}(2\pi r)=(0.3 \textrm{cm})(2 \pi)(2.4 \textrm{cm}) = 4.5216 \textrm{cm}^2$$
-
-Therefore $$ A=(18 \pm 5) \textrm{cm}^2$$
-
-</details>
+[Submit your answer here](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform)
 
 -----------
 
-Let’s try another one:
+Extra practice:
 If we now have a cone, with the same radius $$r=2.4 \pm0.3\textrm{cm}$$ and a height $$h=10.2\pm0.4\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
 <details>

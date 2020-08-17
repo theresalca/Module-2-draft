@@ -13,27 +13,11 @@ In your lab notebook, try the derivation yourself and document the result.
 
 ## Formulating a Hypothesis
 
-We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of the following factors will affect a measurement of $$\theta_c$$?
+We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of factors will affect a measurement of $$\theta_c$$?
 
-A. the mass of the block $$m$$
+#### Mini-question
 
-B. the composition and structure of the two surfaces of the block and ramp in contact
-
-C. the rate at which the ramp is raised
-
-D. all of the above
-
-E. none of the above
-
-<details>
-<summary markdown='span'> Click for the solution: </summary>
-
-Correct answer: B 
-
-
-According to the theory, the critical angle \(\theta_c\) only depends on \(\mu_s\). And since \(\mu_s\) depends on the two surfaces in contact, we would expect the mass of the block and how quickly the ramp is raised to be unimportant. 
-
-</details>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" 
 
 -----
 
