@@ -122,6 +122,8 @@ Bonus: What measurement’s uncertainty was dominant in our uncertainty in the v
 Since the uncertainty in the volume of the cone due to the uncertainty in the radius is much larger than that from the height ( \(15.5 \textrm{cm}^3>>2.41 \textrm{cm}^3\) ) we should refine our experimental procedure to be much more careful and precise in our radius measurement since this is limiting our knowledge of the cone's volume.
 
 </details>
+ 
+ ----------
 
 </details>
 
