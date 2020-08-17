@@ -37,7 +37,7 @@ According to the theory, the critical angle \(\theta_c\) only depends on \(\mu_s
 
 -----
 
-Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [at this specific place on Piazza](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7).
 
 **For Module 1 we will all test the same hypothesis.** The hypothesis we will test is:
 
