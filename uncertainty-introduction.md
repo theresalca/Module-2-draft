@@ -99,7 +99,7 @@ Therefore $$ A=(18 \pm 5) \textrm{cm}^2$$
 -----------
 
 Let’s try another one:
-If we now have a cone, with the same radius $$r=2.4 \pm0.3\textrm{cm}$$ and a height $$h=10.2\pm0.4\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pir^2h$$)
+If we now have a cone, with the same radius $$r=2.4 \pm0.3\textrm{cm}$$ and a height $$h=10.2\pm0.4\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) Solution: </summary>
