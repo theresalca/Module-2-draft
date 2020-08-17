@@ -51,7 +51,7 @@ In the last module you took measurements of the rotation rate of a motor. If you
 
 Clearly, Experiment B has a narrower spread in the data and therefore has a lower uncertainty, but how do we calculate this uncertainty? It seems reasonable that the result of your multiple measurement trials would be the mean value ± some uncertainty that is related to the spread in your data. The range in which 68% of your measurements reside is the mean ±σ where σ is the standard deviation of the data. However, taking more data will likely not decrease the value of the standard deviation of your data but it will surely increase your confidence in the mean and therefore should decrease the uncertainty. Therefore, the uncertainty we report will be $$\pm \sqrt{\sigma/N}$$, known as the standard error, where N is the number of trials (data points taken under “identical” experimental conditions).
 
-Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this here.
+Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en).
 
 Lesson check: If you take several trials of a particular measurement and record an identical value every time, does this mean you know the exact value with no uncertainty? What does this say about your experimental procedure?
 
