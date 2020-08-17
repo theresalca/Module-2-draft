@@ -28,9 +28,9 @@ E. none of the above
 <details>
 <summary markdown='span'> Click for the solution: </summary>
 
-Correct answer: **B** 
+Correct answer: B 
 
-According to the theory, the critical angle $$\theta_c$$ only depends on $$\mu_s$$. And since $$\mu_s$$ depends on the two surfaces in contact, we would expect the mass of the block and how quickly the ramp is raised to be unimportant. 
+According to the theory, the critical angle \(\theta_c\) only depends on \(\mu_s\). And since \(\mu_s\) depends on the two surfaces in contact, we would expect the mass of the block and how quickly the ramp is raised to be unimportant. 
 
 </details>
 
