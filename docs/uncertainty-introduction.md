@@ -85,7 +85,14 @@ Prof. Gerbode explains how to propagate uncertainties from a measured quantity t
 #### Mini-question
 The radius of a circle is measured to be $$2.4 \pm 0.3 \textrm{cm}$$. What is the area of the circle?
 
-[Submit your answer here](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform)
+<details>
+<summary markdown='span'> (try it first, then click to expand/collapse) Solution: </summary>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="703" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+</details>
+
 
 -----------
 
