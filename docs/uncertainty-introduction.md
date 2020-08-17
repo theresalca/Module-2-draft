@@ -16,12 +16,12 @@ One of our goals as experimental scientists is to try to minimize the uncertaint
 
 Common sources of uncertainty include:
 
-– your judgement in reading analogue instruments;
-– the sensitivity of your instruments (e.g. the digital scale, smallest interval on a meter stick, etc.);
-– the rating or stated calibration of the instrument;
-– approximations and assumptions that you make while doing the experiment;
-– variations in repeated readings made under apparently identical conditions; and
-– the effects of environmental conditions on the measurement.
++ your judgement in reading analogue instruments;
++ the sensitivity of your instruments (e.g. the digital scale, smallest interval on a meter stick, etc.);
++ the rating or stated calibration of the instrument;
++ approximations and assumptions that you make while doing the experiment;
++ variations in repeated readings made under apparently identical conditions; and
++ the effects of environmental conditions on the measurement.
 
 A measurement uncertainty is not meant to be an indication of “mistakes” that you might make in an experiment. If you are aware that you have made a mistake, then you should repeat your experiment or at least exclude the data taken improperly. Similarly, “human error” is not a useful way of identifying a source of uncertainty; that phrase provides future experimenters with no guidance at all about what aspects of the experimental apparatus or procedures to focus on improving.
 
@@ -81,6 +81,8 @@ $$\delta g = \sqrt{ (\delta x \frac{\partial g}{\partial x})^2 + (\delta y \frac
 Where $$\delta x$$ is the uncertainty in $$x$$ and $$\frac{\partial g}{\partial x}$$  is the partial derivative of $$g$$ with respect to $$x$$ (similar for $$y$$ and $$z$$).
 
 To see the origins of this relationship I encourage you to read the following document, [An Introduction to Experimental Uncertainties and Error Analysis](https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/intro_to_uncert_ph22.pdf), created for HMC physics labs of the past. This is a great document that explains calculating uncertainties (how and why), when you can throw out data, and how to propagate uncertainty measurements in one value into uncertainties in another value. The entire document is beneficial (with the exception of 17-19 as we are not using this during Ph 50), but I encourage you to read pages 15-16 and 21-22 with particular attention. 
+
+--------
 
 Try it:
 The radius of a circle is measured to be $$2.4 \pm 0.3 \textrm{cm}$$. What is the area of the circle?
