@@ -3,6 +3,9 @@
 [Overview](#overview)
 
 [Weekly Plan](#weekly-plan)
++ [Week 1 - Exploratory Phase](week1-exploratory)
++ [Week 2 - Hypothesis Testing Phase](week2-hypothesis-testing)
++ [Week 3 - Scientific Communication Phase](week3-communication)
 
 [Background Reading](#background-reading)
 
@@ -37,14 +40,14 @@ Although we are going to treat these phases as separate, linear progression they
 
 To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a block on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. 
 
-Module 1 is three weeks long. Each week, you will have a deliverable due that addresses each of the learning objectives in turn. You have a couple of options on how to proceed. You can first read over the [Background Reading](#background-reading) below and learn about the main experimental concepts you will use in this module before starting Week 1. Alternatively, you can dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. 
+Module 1 is three weeks long. Each week, you will have a checkpoint due that addresses each of the learning objectives in turn. You have a couple of options on how to proceed. You can first read over the [Background Reading](#background-reading) below and learn about the main experimental concepts you will use in this module before starting Week 1. Alternatively, you can dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. 
 
 1. [Week 1 - Exploratory Phase](week1-exploratory)
-    - Deliverable: preliminary measurement of $$\mu_s$$ with uncertainty, and an experimental design for hypothesis testing
+    - Checkpoint: preliminary measurement of $$\mu_s$$ with uncertainty, and an experimental design for hypothesis testing
 2. [Week 2 - Hypothesis Testing Phase](week2-hypothesis-testing)
-    - Deliverable: a conclusion based on your experimental measurements
-2. [Week 3 - Scientific Communication Phase](week3-communication)
-    - Deliverable: a figure with a caption that communicates your results
+    - Checkpoint: a conclusion based on your experimental measurements
+3. [Week 3 - Scientific Communication Phase](week3-communication)
+    - Checkpoint: a figure with a caption that communicates your results
 
 
 
