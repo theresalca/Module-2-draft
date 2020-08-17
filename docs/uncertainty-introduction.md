@@ -6,8 +6,8 @@
     - [Resolution Uncertainty](#resolution-uncertainty)
     - [Random Uncertainty](#resolution-uncertainty)
     - [Systematic Uncertainty](#resolution-uncertainty)
-- [Combining Uncertainties](Combining-Uncertainties)
-- [Propagation of Uncertainties](propagation-of-uncertainties)
+- [Combining Uncertainties](#combining-uncertainties)
+- [Propagation of Uncertainties](#propagation-of-uncertainties)
 
 
 ## Overview
@@ -74,17 +74,15 @@ Where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value
 Remember: Systematic errors should be dealt with separately, by eliminating all you possibly can and estimating the size of remaining shifts, in addition to pinpointing the specific effect they would have on the final analysis.  (Would they make the speed of sound come out too high?  Would they make a linear graph look quadratic?  etc.)
 
 ## Propagation of Uncertainties
-Suppose you have a function $$g$$ that is a function of the quantities $$x$$, $$y$$ and $$z$$, i.e. $$g(x, y, z)$$. The uncertainty in $$g$$ in terms of the uncertainties in $$x$$, $$y$$ and $$z$$ is found by:
 
-$$\delta g = \sqrt{ (\delta x \frac{\partial g}{\partial x})^2 + (\delta y \frac{\partial g}{\partial y})^2 + (\delta z \frac{\partial g}{\partial z})^2} $$
+Prof. Gerbode explains how to propagate uncertainties from a measured quantity to a calculated value:
 
-Where $$\delta x$$ is the uncertainty in $$x$$ and $$\frac{\partial g}{\partial x}$$  is the partial derivative of $$g$$ with respect to $$x$$ (similar for $$y$$ and $$z$$).
+[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view)
 
-To see the origins of this relationship I encourage you to read the following document, [An Introduction to Experimental Uncertainties and Error Analysis](https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/intro_to_uncert_ph22.pdf), created for HMC physics labs of the past. This is a great document that explains calculating uncertainties (how and why), when you can throw out data, and how to propagate uncertainty measurements in one value into uncertainties in another value. The entire document is beneficial (with the exception of 17-19 as we are not using this during Ph 50), but I encourage you to read pages 15-16 and 21-22 with particular attention. 
 
 --------
 
-Try it:
+Try another example:
 The radius of a circle is measured to be $$2.4 \pm 0.3 \textrm{cm}$$. What is the area of the circle?
 
 <details>
