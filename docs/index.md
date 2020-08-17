@@ -3,9 +3,13 @@
 
 ## Learning Objectives
 
+
 0) ~~reinforce concepts you are learning in Ph51~~
+
 1) Create an experimental design based on exploratory observations 
+
 2) Test a hypothesis using experimental data and its estimated uncertainty 
+
 3) Communicate experimental results of with a well-designed figure
 
 One of the main goals of this course is for you to "think like an experimental physicist". Instead of merely reinforcing specific concepts from other physics courses you've taken, we will focus on the experimental process. These three learning objectives are tied to what we view as distinct phases in how we approach the experimental process, and we will use these three phases to frame Module 1:
