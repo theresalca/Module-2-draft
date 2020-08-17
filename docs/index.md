@@ -12,7 +12,7 @@
 ### Learning Objectives
 
 
-0. ~~reinforce concepts you are learning in Ph51~~
+~~reinforce concepts you are learning in Ph51~~
 
 1. Create an experimental design based on exploratory observations 
 
