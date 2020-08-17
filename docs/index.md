@@ -55,7 +55,7 @@ Module 1 is three weeks long. Each week, you will have a checkpoint due that add
 
 + [More about the Phases of Experimental Work](experimental-phases.md)
 
-+ [The Relationship between the Critical Angle for Slipping $$\theta_c$$ and the Coefficient of Static Friction $$\mu_s$$](block-on-a-ramp.md)
++ [The Relationship between the Critical Angle for Slipping $$\theta_c$$ and the Coefficient of Static Friction $$\mu_s$$](https://youtu.be/EUT0F3k4asc?t=217)
 
 + [Introduction to Uncertainties](uncertainty-introduction.md)
 

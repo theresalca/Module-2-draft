@@ -1,1 +1,0 @@
-# Relationship between $$\theta_c$$ and $$\mu_s$$

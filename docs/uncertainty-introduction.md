@@ -67,7 +67,7 @@ Lesson check: what sources of systematic error could have been present in your e
 ### Combining Uncertainties
 When you make a measurement you will have both random and resolution (sometimes multiple!) uncertainties. In order to obtain one actual uncertainty to quote in your value you can combine the sources by adding in quadrature. Adding in quadrature means to square each value for your uncertainty, add them all together, and take the square root of the sum:
 
-$$ \delta x_\mathrm{total} = \sqrt{\delta x_1^2 + \delta x_2^2 \delta x_3^2 ...}$$
+$$ \delta x_\mathrm{total} = \sqrt{\delta x_1^2 + \delta x_2^2 + \delta x_3^2 ...}$$
 
 Where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the various sources of uncertainty in the measurement of $$x$$ (e.g. random uncertainty, resolution uncertainty, etc).
 
@@ -77,7 +77,7 @@ Remember: Systematic errors should be dealt with separately, by eliminating all 
 
 Prof. Gerbode explains how to propagate uncertainties from a measured quantity to a calculated value:
 
-[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view)
+[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing)
 
 
 --------

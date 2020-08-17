@@ -16,6 +16,7 @@ Take a look a the raw markdown file for how to format the "\<details>" tag. Insi
 
 ### Instructor To Do List:
 - [X] overview of Module 1
+- [ ] video for uncertainty propagation
 - [ ] Week 1 Checkpoint - Exploratory Measurements
 - [ ] write-up for block on a ramp 
 - [ ] Week 2 Checkpoint - Data & Hypothesis Testing
