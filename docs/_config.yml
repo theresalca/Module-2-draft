@@ -1,6 +1,9 @@
 title: Physics 50 - Module 1
 logo: /images/phys-logo.png
 description: Harvey Mudd College Physics 50
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+relative_links:
+  enabled:     true
+  collections: false
