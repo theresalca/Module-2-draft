@@ -1,16 +1,24 @@
 # Module 1
 
+[Overview](#overview)
 
-## Learning Objectives
+[Weekly Plan](#weekly-plan)
+
+[Background Reading](#background-reading)
 
 
-0) ~~reinforce concepts you are learning in Ph51~~
+## Overview 
 
-1) Create an experimental design based on exploratory observations 
+### Learning Objectives
 
-2) Test a hypothesis using experimental data and its estimated uncertainty 
 
-3) Communicate experimental results of with a well-designed figure
+0. ~~reinforce concepts you are learning in Ph51~~
+
+1. Create an experimental design based on exploratory observations 
+
+2. Test a hypothesis using experimental data and its estimated uncertainty 
+
+3. Communicate experimental results of with a well-designed figure
 
 One of the main goals of this course is for you to "think like an experimental physicist". Instead of merely reinforcing specific concepts from other physics courses you've taken, we will focus on the experimental process. These three learning objectives are tied to what we view as distinct phases in how we approach the experimental process, and we will use these three phases to frame Module 1:
 
@@ -24,6 +32,8 @@ One of the main goals of this course is for you to "think like an experimental p
     - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. By the end of this course, we are going to build towards a scientific poster presentation.
 
 Although we are going to treat these phases as separate, linear progression they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work in the exploratory phase: asking yourself about what the deeper conclusions could be can inform whether or not a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a "rules" for how experimental work always unfolds.
+
+## Weekly Plan
 
 To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a block on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. 
 
