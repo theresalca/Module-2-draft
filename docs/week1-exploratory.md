@@ -176,9 +176,13 @@ Some questions to answer in your experimental design:
 
 + Based on the data you will obtain, how will you test the hypothesis?
 
-At the end of Week 1, submit your experimental design [here on Google Classroom](https://classroom.google.com/u/0/c/MTI2NjQ0NDEyMTAx/a/MTI2OTA2MjA2Mjg3/details).
+Write up your experimental design (save a copy for yourself) and then paste your design into the form below by the end of Week 1:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewMEb4a9mOoE5_sOsbKDLLZHV4bVxQuyFVwKdItmZiDfii0A/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ## Final Note
 
 In the diagram at the top of the page, the arrows come full-circle and suggest that we may not be done. Although we have come up with an experimental design, we could return to some background reading to make sure that we are exploring hasn't been done already. We could, for example continue doing background reading to refine our experimental design and hypothesis by [searching Google Scholar for academic articles related to  our topic/hypothesis](https://scholar.google.com/scholar?q=critical+angle+and+the+coefficient+of+static+friction). The first search result, for example, measured $$\mu_s$$ for lubricated surfaces and found that the measured $$\mu_s$$ might depend on mass based on the type of lubricant. Although this type of hypothesis refinement frequently happens in experimental research, it is beyond the scope of our learning objectives in Physics 50. 
 
+When you're ready, move on to [Week 2 - Hypothesis Testing Phase](week2-hypothesis-testing).
