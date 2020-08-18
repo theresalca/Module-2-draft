@@ -62,11 +62,11 @@ Make note of your equipment in your lab notebook (record keeping is so important
 
 #### 1. Perform a Single Measurement
 
-Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity.  
+Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. These steps will guide you through this process:
 
 + Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
 
-+ [Read about resolution uncertainty](uncertainty-introduction#resolution-uncertainty) ($$\approx$$ 5 minutes) first and then record the resolution uncertainty for the critical angle $\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
++ Read this [overview on uncertainties](uncertainty-introduction#overview) and also [about resolution uncertainty](uncertainty-introduction#resolution-uncertainty) ($$\approx$$ 5 minutes) first and then record the resolution uncertainty for the critical angle $\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
 
 | $$\theta_c$$ (degrees) | $$\delta_\mathrm{res.} \theta_c $$ (degrees) |
 |:-----------------------:|:---------------------------------------------:|
@@ -75,7 +75,7 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 + Calculate $$\mu_s$$ from your single measurement of $$\theta_c$$ (using the relationship you derived in the [background reading](#background-reading)). 
 
-*Friendly reminder: don't forget to convert the value of the angle from degrees to radians in your Google Sheet calculation.*
+*Friendly reminder: convert the angle from degrees to radians in your Google Sheet calculation.*
 
 + Learn how to propagate uncertainties from this video of [Prof. Gerbode explaining how to propagate uncertainty in $$\theta_c$$ to uncertainty in $$\mu_s$$](uncertainty-introduction#propagation-of-uncertainties) (10 minutes) and answer the mini-question about uncertainty propagation on that page. 
 
@@ -88,29 +88,95 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? Is your fractional resolution uncertainty reasonably small (fractional resolution uncertainty $$\equiv \frac{\delta_\mathrm{res.} \mu_s}{\mu_s}$$)?
 
-
-
+*At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're stuck, [post a question up on our Piazza site](https://piazza.com/class/kdyuyniyaz052s)*
 
 #### 2. Test Repeatability
 
-Random uncertainty
+Now that we are confident we have a reasonable value of the quantity we are trying to measure, we should test the variability in our experimental measurement.
 
-Systematic uncertainty
+Read [this discussion about random uncertainty](uncertainty-introduction#random-uncertainty) 
 
+The goal of testing repeatability is to get a sense of the random error associated with the measurement. 
+
+Take a few measurements of $$\theta_c$$ under identical conditions (say 4 or 5). Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to minimize systematic error, a major topic in Module II. 
+
+Trial #	| $$\theta_c$$ (degrees)	
+|:-------:|:-------------------------:|	
+1 |			
+2	|		
+3	|		
+4	|		
+
+How does the spread in the data (maximum measured $$\theta_c$$ minus minimum $$\theta_c$$) compare to the resolution uncertainty?
+
+If the spread in your data was representative of the standard deviation, how many data points would you need to take for the random uncertainty to equal your resolution uncertainty? 
+
+#### Mini-question
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>			
 
 
 #### 3. Perform a preliminary test of the hypothesis
 
+The goal of the preliminary test is to understand what challenges there might be to making a conclusion and have that inform your experiential design. The goal at this point is **not** to actually test the hypothesis or come to any conclusions yet!
+
+
+Measure $$\theta_c$$ for a few different masses (choose the masses to cover as broad of a range as you have available)
+
+
+mass (what units?) |$$\theta_c$$ (degrees)
+|:-------:|:-------------------------:|	
+ . |			
+.	|		
+ .	|		
+
+	
+	
+How does the difference in $$\theta_c$$ for different masses compare to the difference in $$\theta_c$$ for the same mass (from testing repeatability)?
+
+In this step, we are trying to get a rough sense of how big of an effect our independent variable (mass) might cause experimentally. The size of the effect will inform how many trials we might need to include in our experimental design. 
 
 #### 4. Explore other factors
 
+Finally, it's a good idea to explore other factors that might affect the measurement. These other factors might be a source of systematic error. Read about  [systematic error here first](uncertainty-introduction#random-uncertainty) (2 minutes).
+
+
+Here are some ideas (feel free to explore others too):
+
+- different combinations of blocks/ramps
+What combination of block/ramp might yield the best quality data?
+
+- exact location of where the block is placed on the ramp
+- speed of how quickly the ramp is raised
+- direction the ramp is tilted
+- orientation of the block 
+
+Do any of these factrors affect the measurement? Which ones are most significant?
+
+*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis*
 
 
 ## Designing the Experiment
 
+At the end of the exploratory observations, we can now complete an Experimental Design that will determine how the actual experiment will be performed. Think of 
 
+Some questions to answer in your experimental design:
 
++ What hypothesis are you testing?
 
++ What is the detailed procedure for how you will obtain a measurement?
+
++ What independent variable(s) are you going to vary?
+
++ What factors are you going to control (hold constant)?
+
++ How many data points will you take? (Given the spread of your preliminary data, think about an acceptable random uncertainty to observe an effect)
+
++ In what order will you take the data points? (think about shuffling the order of data points you take)
+
++ Based on the data you will obtain, how will you test the hypothesis?
+
+At the end of Week 1, submit your experimental design [here on Google Classroom](https://classroom.google.com/u/0/c/MTI2NjQ0NDEyMTAx/a/MTI2OTA2MjA2Mjg3/details).
 
 ## Final Note
 
