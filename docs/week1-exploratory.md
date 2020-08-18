@@ -58,11 +58,23 @@ Make note of your equipment in your lab notebook (record keeping is so important
 
 ## Exploratory Measurements
 
+The exploratory measurements can be a fun part of the experimental process. You get to play around with your setup and make some observations! You can really let your curiosity and creativity guide you in this part of the experimental process. 
 
+For your exploratory measurements in Module 1, we would like you to do the following:
+
++ Perform a single measurement to check that you are getting a reasonable answer
+
++ Get an understanding of the repeatability of your measurement 
+
++ Perform a preliminary test of your hypothesis
+
++ Check other factors that might affect your measurement (this is where you get to play!)
+
+The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them.
 
 #### 1. Perform a Single Measurement
 
-Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. These steps will guide you through this process:
+Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. 
 
 + Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
 
@@ -141,19 +153,20 @@ In this step, we are trying to get a rough sense of how big of an effect our ind
 Finally, it's a good idea to explore other factors that might affect the measurement. These other factors might be a source of systematic error. Read about  [systematic error here first](uncertainty-introduction#random-uncertainty) (2 minutes).
 
 
-Here are some ideas (feel free to explore others too):
+Here are some ideas of things you can explore (feel free to explore others too):
 
-- different combinations of blocks/ramps
+- Try out different combinations of blocks/ramps
 What combination of block/ramp might yield the best quality data?
 
-- exact location of where the block is placed on the ramp
-- speed of how quickly the ramp is raised
-- direction the ramp is tilted
-- orientation of the block 
+- Do the following factors affect your measurement?
+    - the exact location of where the block is placed on the ramp
+    - speed of how quickly the ramp is raised
+    - the direction the ramp is tilted
+    - the orientation of the block 
 
-Do any of these factrors affect the measurement? Which ones are most significant?
+If any of these factrors affect the measurement, which ones are most significant?
 
-*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis*
+*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. If you have an idea that comes out of your exploration, be sure to share it [here on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7)!* 
 
 
 ## Designing the Experiment
