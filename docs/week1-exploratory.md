@@ -78,7 +78,9 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 + Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
 
-+ Read this [overview on uncertainties](uncertainty-introduction#overview) and also [about resolution uncertainty](uncertainty-introduction#resolution-uncertainty) ($$\approx$$ 5 minutes) first and then record the resolution uncertainty for the critical angle $\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
+
++ The "Uncertainty Introduction" has information we are going to need in Ph50 about  guide   [overview on uncertainties](uncertainty-introduction#overview) and also [about resolution uncertainty](uncertainty-introduction#resolution-uncertainty) ($$\approx$$ 5 minutes) 
+first and then record the resolution uncertainty for the critical angle $$\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
 
 | $$\theta_c$$ (degrees) | $$\delta_\mathrm{res.} \theta_c $$ (degrees) |
 |:-----------------------:|:---------------------------------------------:|
@@ -125,7 +127,8 @@ If the spread in your data was representative of the standard deviation, how man
 
 #### Mini-question
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>			
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 #### 3. Perform a preliminary test of the hypothesis
@@ -164,7 +167,7 @@ What combination of block/ramp might yield the best quality data?
     - the direction the ramp is tilted
     - the orientation of the block 
 
-If any of these factrors affect the measurement, which ones are most significant?
+If any of these factors affect the measurement, which ones are most significant?
 
 *Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. If you have an idea that comes out of your exploration, be sure to share it [here on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7)!* 
 
@@ -175,7 +178,7 @@ At the end of the exploratory observations, we can now complete an Experimental 
 
 Some questions to answer in your experimental design:
 
-+ What hypothesis are you testing?
++ What hypothesis are you testing? (for module 1)
 
 + What is the detailed procedure for how you will obtain a measurement?
 

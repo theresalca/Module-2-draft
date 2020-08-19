@@ -12,7 +12,13 @@
 
 ## Overview
 
-One of our goals as experimental scientists is to try to minimize the uncertainty when we perform a measurement. We can of course increase our confidence in our measurement by collecting as much data as possible, although we must decide when we have reached a point of “diminishing returns.” We must be aware of how much variance there is in our data and how to quantify that variance. We want to be aware of what factors in our experiment are introducing the most significant uncertainty and determine if there is some way we can improve our experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
+Estimating the uncertainty of our measurements enable us to make conclusions from our data. For example, imagine you measured the speed of two passing cars:
+ two measurements of the same
+
+![comparing measured quantities with uncertainties](images/comparing-with-uncertainties.png)
+
+
+One of our goals as experimental scientists is to try to minimize the uncertainty when we perform a measurement. We must be aware of how much variance there is in our data and how to quantify that variance. We want to be aware of what factors in our experiment are introducing the most significant uncertainty and determine if there is some way we can improve our experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
 
 Common sources of uncertainty include:
 
@@ -42,6 +48,8 @@ Finally, we obtain a measurement device that can measure much smaller intervals 
 
 Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the resolution uncertainty. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgement and common sense.
 
+[*Return to Module 1 Week 1]
+
 ### Random Uncertainty
 If you attempt to repeat your measurement you most likely will observe some spread in your measured values values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab – so we call them random. These variations in data cause a spread in your data, as shown in the two histograms of repeated measurements from experiments A and B below:
 
@@ -49,7 +57,7 @@ If you attempt to repeat your measurement you most likely will observe some spre
 *Histogram of length measurements of a single object for two different experiments, A and B. What can you say about the difference in your confidence between the results of Experiment A and B?  (Area = 0.68 indicates in each case that the shaded area contains 68% of the total trials.)*
 
 
-Clearly, Experiment B has a narrower spread in the data and therefore has a lower uncertainty, but how do we calculate this uncertainty? It seems reasonable that the result of your multiple measurement trials would be the mean value ± some uncertainty that is related to the spread in your data. The range in which 68% of your measurements reside is the mean ±σ where σ is the standard deviation of the data. However, taking more data will likely not decrease the value of the standard deviation of your data but it will surely increase your confidence in the mean and therefore should decrease the uncertainty. Therefore, the uncertainty we report will be $$\pm \sqrt{\sigma/N}$$, known as the standard error, where N is the number of trials (data points taken under “identical” experimental conditions).
+Clearly, Experiment B has a narrower spread in the data and therefore has a lower uncertainty, but how do we calculate this uncertainty? It seems reasonable that the result of your multiple measurement trials would be the mean value ± some uncertainty that is related to the spread in your data. The range in which 68% of your measurements reside is the mean ±σ where σ is the standard deviation of the data. However, taking more data will likely not decrease the value of the standard deviation of your data but it will surely increase your confidence in the mean and therefore should decrease the uncertainty. Therefore, the uncertainty we report will be $$\pm \sigma/\sqrt{N}$$, known as the standard error, where N is the number of trials (data points taken under “identical” experimental conditions).
 
 Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en).
 
@@ -69,6 +77,8 @@ When you make a measurement you will have both random and resolution (sometimes 
 $$ \delta x_\mathrm{total} = \sqrt{\delta x_1^2 + \delta x_2^2 + \delta x_3^2 ...}$$
 
 Where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the various sources of uncertainty in the measurement of $$x$$ (e.g. random uncertainty, resolution uncertainty, etc).
+
+**When combining different sources of uncertainty make sure they have the same units**
 
 Remember: Systematic errors should be dealt with separately, by eliminating all you possibly can and estimating the size of remaining shifts, in addition to pinpointing the specific effect they would have on the final analysis.  (Would they make the value you measure too large? Would they make a linear graph look quadratic?  etc.)
 
