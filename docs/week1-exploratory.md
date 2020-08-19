@@ -17,7 +17,7 @@ We begin our investigation of measuring $$\mu_s$$ by doing an initial exploratio
 
 ## Background Reading
 
-Often the first step is to do some background reading and theoretical analysis. [This video from Prof. Saeta](https://youtu.be/EUT0F3k4asc?t=217) on how $$\mu_s$$ and $$\theta_c$$ are related will provide a quick refresher.
+Often the first step is to do some background reading and theoretical analysis. [This video from Prof. Arlett](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing) on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher.
 
 In your lab notebook, try the derivation yourself and document the result.
 
