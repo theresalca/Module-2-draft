@@ -18,12 +18,15 @@ Take a look a the raw markdown file for how to format the "\<details>" tag. Insi
 - [X] overview of Module 1
 - [X] video for uncertainty propagation
 - [X] Week 1 Checkpoint - Exploratory Measurements
+- [X] write-up for block on a ramp 
+- [X] set up Google classroom
+- [X] set up Piazza
+- [ ] syllabus
+- [ ] intro video about syllabus
+- [ ] What does it mean to test a hypothesis and why do we need to estimate uncertainty?
 - [ ] Tailor resolution uncertainty discussion for theta measurement
 - [ ] Video for random uncertainty
-- [X] write-up for block on a ramp 
 - [ ] Week 2 Checkpoint - Data & Hypothesis Testing
 - [ ] Week 3 Communication 
 - [ ] Guide to creating figures
-- [ ] What does it mean to test a hypothesis and why we need uncertainty?
-- [X] set up Google classroom
-- [X] set up Piazza
+- [ ] Final deliverable rubric
