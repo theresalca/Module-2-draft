@@ -14,11 +14,12 @@
 
 We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook can be tricky, so for Module 1 we are providing a [template for you to follow along with in Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI2OTE0NDU2MTc5). The template has tabs along the bottom for your notes, as well as a data sheet for your exploratory measurements. 
 
+**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page.**
 
 ## Background Reading
 
 Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction - a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
-[<img src="images/static-friction-video-preview.png" alt="refrsher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing) 
+[<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing) 
 
 In your lab notebook, try the derivation yourself and document the result.
 
