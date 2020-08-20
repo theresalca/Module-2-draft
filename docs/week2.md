@@ -13,14 +13,14 @@
 
 . 
 
-**Make sure you have your [Module 1 Data Sheet and Lab Notebook]((https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NDAzNzQwOTE4)) handy as you go through the content on this Week 1 page.**
+**Make sure you have your [Module 1 Data Sheet and Lab Notebook](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NDAzNzQwOTE4){:target="_blank"} handy as you go through the content on this Week 1 page.**
 
 
 ## Exploratory Measurements
 
 #### 1 Perform a Single Measurement
 
-From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [ask for help on Piazza](https://piazza.com/class/kdyuyniyaz052s). 
+From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [ask for help on Piazza](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"}. 
 
 
 #### 2 Perform a preliminary test of the hypothesis
@@ -93,7 +93,7 @@ What combination of block/ramp might yield the best quality data?
 
 If any of these factors affect the measurement, which ones are most significant?
 
-*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. If you have an idea that comes out of your exploration, be sure to share it [here on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7)!* 
+*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. If you have an idea that comes out of your exploration, be sure to share it [here on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7){:target="_blank"}!* 
 
 
 ## Designing the Experiment
@@ -118,9 +118,9 @@ Some questions to answer in your experimental design:
 
 ## Checkpoint 2
 
-+ Write up your experimental design (save a copy for yourself) and then paste your design into checkpont 2 on Gradescope by the end Week 2.
++ Write up your experimental design (save a copy for yourself) and then paste your design into [checkpont 2 on Gradescope](https://www.gradescope.com/courses/165932/assignments/607633){:target="_blank"} by the end Week 2.
 
-+ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2)
++ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
 ## Final Note
 
