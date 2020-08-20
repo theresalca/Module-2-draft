@@ -17,7 +17,7 @@ We begin our investigation of measuring $$\mu_s$$ by doing an initial exploratio
 
 ## Background Reading
 
-Often the first step is to do some background reading and theoretical analysis. This video from Prof. Arletton how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
+Often the first step is to do some background reading and theoretical analysis. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
 [<img src="images/static-friction-video-preview.png" alt="refrsher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing) 
 
 In your lab notebook, try the derivation yourself and document the result.
