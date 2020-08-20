@@ -18,13 +18,38 @@
 
 ## Exploratory Measurements
 
-#### 1. Perform a Single Measurement
+#### 1 Perform a Single Measurement
 
 From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [ask for help on Piazza](https://piazza.com/class/kdyuyniyaz052s). 
 
-#### 2. Test Repeatability
 
-Now that we are confident we have a reasonable value of the quantity we are trying to measure, we should test the variability in our experimental measurement.
+#### 2 Perform a preliminary test of the hypothesis
+
+The goal of the preliminary test is to understand what challenges there might be to making a conclusion and have that inform your experiential design. The goal at this point is **not** to actually test the hypothesis or come to any conclusions yet!
+
+Remember our hypothesis for Module 1 is:
+
+*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
+
+Perform a single measurement of $$\theta_c$$ for a few different masses (choose the masses to cover as broad of a range as you have available). Report whatever units you are using for the mass. This could be in grams if you have a scale available, but other unconventional units are okay too (e.g. mass in terms of the number of tuna cans or whatever object you are using as the block).
+
+
+mass (what units?) |$$\theta_c$$ (degrees)
+|:-------:|:-------------------------:|	
+ . |			
+.	|		
+ .	|		
+
+		
+
+In this step, we are trying to get a rough sense of how big of an effect our independent variable (mass) might cause experimentally. The size of the effect will inform what amount of experimental uncertainty will allow us to draw a strong conclusion. 
+
+How does the difference in $$\theta_c$$ for different masses compare to the resolution uncertainty of your measurement?
+
+
+#### 3 Test Repeatability
+
+Now that we are confident we have a reasonable value of the quantity we are trying to measure, and have some sense of how large the effect we are trying to measure might be, we should test the variability in our experimental measurement.
 
 Read [this discussion about random uncertainty](uncertainty-introduction#random-uncertainty) 
 
@@ -49,32 +74,10 @@ If the spread in your data was representative of the standard deviation, how man
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
-#### 3. Perform a preliminary test of the hypothesis
 
-The goal of the preliminary test is to understand what challenges there might be to making a conclusion and have that inform your experiential design. The goal at this point is **not** to actually test the hypothesis or come to any conclusions yet!
+#### 4 Explore Other Factors
 
-Remember our hypothesis for Module 1 is:
-
-*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
-
-Measure $$\theta_c$$ for a few different masses (choose the masses to cover as broad of a range as you have available). Report whatever units you are using for the mass. This could be in grams if you have a scale available, but other unconventional units are okay too (e.g. mass in terms of the number of tuna cans or whatever object you are using as the block).
-
-
-mass (what units?) |$$\theta_c$$ (degrees)
-|:-------:|:-------------------------:|	
- . |			
-.	|		
- .	|		
-
-	
-	
-How does the difference in $$\theta_c$$ for different masses compare to the difference in $$\theta_c$$ for the same mass (from testing repeatability)?
-
-In this step, we are trying to get a rough sense of how big of an effect our independent variable (mass) might cause experimentally. The size of the effect will inform how many trials we might need to include in our experimental design. 
-
-#### 4. Explore other factors
-
-Finally, it's a good idea to explore other factors that might affect the measurement. These other factors might be a source of systematic error. Read about  [systematic error here first](uncertainty-introduction#random-uncertainty) (2 minutes).
+Finally, it's a good idea to explore other factors that might affect the measurement. These other factors might be a source of systematic error. Read about  [systematic error here first](uncertainty-introduction#systematic-errors) (2 minutes).
 
 
 Here are some ideas of things you can explore (feel free to explore others too):
