@@ -126,3 +126,7 @@ Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within t
 + [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297)
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1)
+
+
+
+When you're all finished and ready to move on, you can start [Week 2 - Exploratory Phase (part 2)](week2).
