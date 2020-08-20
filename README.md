@@ -21,12 +21,13 @@ Take a look a the raw markdown file for how to format the "\<details>" tag. Insi
 - [X] write-up for block on a ramp 
 - [X] set up Google classroom
 - [X] set up Piazza
+- [X] set up Sakai
+- [X] What does it mean to test a hypothesis and why do we need to estimate uncertainty?
 - [ ] syllabus
 - [ ] intro video about syllabus
-- [ ] What does it mean to test a hypothesis and why do we need to estimate uncertainty?
 - [ ] Tailor resolution uncertainty discussion for theta measurement
 - [ ] Video for random uncertainty
-- [ ] Week 2 Checkpoint - Data & Hypothesis Testing
-- [ ] Week 3 Communication 
+- [ ] Week 3 Checkpoint - Data & Hypothesis Testing
+- [ ] Week 4 Communication 
 - [ ] Guide to creating figures
 - [ ] Final deliverable rubric
