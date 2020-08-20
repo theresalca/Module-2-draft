@@ -4,8 +4,9 @@
 
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase](week1-exploratory)
-+ [Week 2 - Hypothesis Testing Phase](week2-hypothesis-testing)
-+ [Week 3 - Scientific Communication Phase](week3-communication)
++ [Week 2 - Explratory Phase Continued] (week2-exploratory)
++ [Week 3 - Hypothesis Testing Phase](week2-hypothesis-testing)
++ [Week 4 - Scientific Communication Phase](week3-communication)
 
 [Background Reading](#background-reading)
 
