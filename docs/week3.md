@@ -18,3 +18,4 @@ Look back to the spreadsheet you used for your preliminary data collection last 
     i. Give the table a title.
 
     ii. Use the borders feature to outline the table.
+    <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
