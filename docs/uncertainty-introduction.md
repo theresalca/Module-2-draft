@@ -12,13 +12,17 @@
 
 ## Overview
 
-Estimating the uncertainty of our measurements enable us to make conclusions from our data. For example, imagine you measured the speed of two passing cars:
- two measurements of the same
+Estimating the uncertainty of our measurements enables us to make conclusions from our data. For example, imagine you measured the speed of two passing cars (car "A" and car "B") in three different ways:
 
-![comparing measured quantities with uncertainties](images/comparing-with-uncertainties.png)
+<img src="images/comparing-with-uncertainties.png" alt="comparing measured quantities with uncertainties" width=600 />
 
+In panel (i), the measured velocities of cars A and B are reported, but we are given no indication of how certain we are about the results from those two measurements. It's difficult to draw a conclusion from this type of data because we don't know how confident we are about the two data points. 
 
-One of our goals as experimental scientists is to try to minimize the uncertainty when we perform a measurement. We must be aware of how much variance there is in our data and how to quantify that variance. We want to be aware of what factors in our experiment are introducing the most significant uncertainty and determine if there is some way we can improve our experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
+Instead, if the values are reported with their uncertainties as in (ii), the error bars (the vertical lines around each data point) give an indication of how confident we are that the actual speed for each car falls within a range of values. In this example, the velocity of car A is reported as $$v_A = 23 \pm 5\,\mathrm{m/s}$$ and the velocity of car B is $$v_B = 18 \pm 5 \, \mathrm{m/s}$$. Because the error bars are relatively large compared to the difference between A and B in (ii), we might conclude the following: *"The speed of A and B were measured to be similar and their difference was within the experimental uncertainty of $$\pm$$ 5 m/s."* In other words, the experiment was not sensitive enough to tell the difference between the speed of A and B. 
+
+If we had used a more sensitive experimental technique, that would give a smaller uncertainty as in (iii). This smaller experimental uncertainty lets us make a more powerful conclusion: *"The velocity of car A was measured to be faster than that of car B, with $$v_A = 23 \pm 2\,\mathrm{m/s}$$ and $$v_B = 18 \pm 2 \, \mathrm{m/s}$$.* By minimizing sources of uncertainty in our experiments and providing accurate estimates of how large the uncertainties are in our measurements, we are able to make strong conclusions about our experiments.
+
+That's our goal as experimental scientists: to make strong conclusions based on our data. To do this we need to try to minimize the uncertainty when we perform a measurement. We must be aware of how much variance there is in our data and how to quantify that variance. We want to be aware of what factors in our experiment are introducing the most significant uncertainty and determine if there is some way we can improve our experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
 
 Common sources of uncertainty include:
 
@@ -48,7 +52,12 @@ Finally, we obtain a measurement device that can measure much smaller intervals 
 
 Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the resolution uncertainty. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgement and common sense.
 
-[*Return to Module 1 Week 1]
+[*Return to Module 1 Week 1*](week1#1-perform-a-single-measurement)
+
+
+-------------------------------------------
+
+Week 2:
 
 ### Random Uncertainty
 If you attempt to repeat your measurement you most likely will observe some spread in your measured values values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab – so we call them random. These variations in data cause a spread in your data, as shown in the two histograms of repeated measurements from experiments A and B below:

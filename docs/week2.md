@@ -11,6 +11,9 @@
 
 --------------
 
+. 
+
+**Make sure you have your [Module 1 Data Sheet and Lab Notebook]((https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NDAzNzQwOTE4)) handy as you go through the content on this Week 1 page.**
 
 
 ## Exploratory Measurements
@@ -50,8 +53,11 @@ If the spread in your data was representative of the standard deviation, how man
 
 The goal of the preliminary test is to understand what challenges there might be to making a conclusion and have that inform your experiential design. The goal at this point is **not** to actually test the hypothesis or come to any conclusions yet!
 
+Remember our hypothesis for Module 1 is:
 
-Measure $$\theta_c$$ for a few different masses (choose the masses to cover as broad of a range as you have available)
+*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
+
+Measure $$\theta_c$$ for a few different masses (choose the masses to cover as broad of a range as you have available). Report whatever units you are using for the mass. This could be in grams if you have a scale available, but other unconventional units are okay too (e.g. mass in terms of the number of tuna cans or whatever object you are using as the block).
 
 
 mass (what units?) |$$\theta_c$$ (degrees)
@@ -93,7 +99,7 @@ At the end of the exploratory observations, we can now complete an Experimental 
 
 Some questions to answer in your experimental design:
 
-+ What hypothesis are you testing? (for module 1)
++ What hypothesis are you testing? (for Module 1 it's "The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass.")
 
 + What is the detailed procedure for how you will obtain a measurement?
 
@@ -107,13 +113,15 @@ Some questions to answer in your experimental design:
 
 + Based on the data you will obtain, how will you test the hypothesis?
 
-Write up your experimental design (save a copy for yourself) and then paste your design into the form below by the end of Week 1:
+## Checkpoint 2
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewMEb4a9mOoE5_sOsbKDLLZHV4bVxQuyFVwKdItmZiDfii0A/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
++ Write up your experimental design (save a copy for yourself) and then paste your design into checkpont 2 on Gradescope by the end Week 2.
 
++ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2)
 
 ## Final Note
 
 In the diagram at the top of the page, the arrows come full-circle and suggest that we may not be done. Although we have come up with an experimental design, we could return to some background reading to make sure that we are exploring hasn't been done already. We could, for example continue doing background reading to refine our experimental design and hypothesis by [searching Google Scholar for academic articles related to  our topic/hypothesis](https://scholar.google.com/scholar?q=critical+angle+and+the+coefficient+of+static+friction). The first search result, for example, measured $$\mu_s$$ for lubricated surfaces and found that the measured $$\mu_s$$ might depend on mass based on the type of lubricant. Although this type of hypothesis refinement frequently happens in experimental research, it is beyond the scope of our learning objectives in Physics 50. 
 
-When you're ready, move on to [Week 2 - Hypothesis Testing Phase](week2-hypothesis-testing).
+When you're ready, move on to [Week 3 - Hypothesis Testing Phase](week3).
+

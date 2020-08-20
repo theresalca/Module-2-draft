@@ -12,13 +12,13 @@
 --------------
 
 
-We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook can be tricky, so for Module 1 we are providing a [template for you to follow along with in Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI2OTE0NDU2MTc5). The template has tabs along the bottom for your notes, as well as a data sheet for your exploratory measurements. 
+We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NDAzNzQwOTE4). 
 
 **Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page.**
 
 ## Background Reading
 
-Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction - a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
+Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction: a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
 [<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing) 
 
 In your lab notebook, try the derivation yourself and document the result.
@@ -35,9 +35,9 @@ We can now try to think of a hypothesis we can test with an experiment. As a qui
 
 Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7).
 
-**For Module 1 we will all test the same hypothesis.** The hypothesis we will test is:
+**For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
 
-"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."
+*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
 
 ## Instrumentation
 
@@ -73,7 +73,8 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI2OTE0NDU2MTc5), use the "Exploratory Observations" tab to record your data in this section).
 
-#### 1. Perform a Single Measurement
+
+#### 1 Perform a Single Measurement
 
 Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. 
 
@@ -92,7 +93,21 @@ first and then record the resolution uncertainty for the critical angle $$\delta
 
 *Friendly reminder: convert the angle from degrees to radians in your Google Sheet calculation.*
 
-+ Learn how to propagate uncertainties from this video of [Prof. Gerbode explaining how to propagate uncertainty in $$\theta_c$$ to uncertainty in $$\mu_s$$](uncertainty-introduction#propagation-of-uncertainties) (10 minutes) and answer the mini-question about uncertainty propagation on that page. 
++ Learn how to propagate uncertainties from this video of Prof. Gerbode explaining how to propagate uncertainty in $$\theta_c$$ to uncertainty in $$\mu_s$$ and answer the mini-question below
+
+[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing)
+
+
+--------
+
+#### Mini-question
+The radius of a circle is measured to be $$2.4 \pm 0.3 \textrm{cm}$$. What is the area of the circle?
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+------------------------------
+
+After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
 
 +  Calculate the resolution uncertainty in measuring the coefficient of static friction $$\delta_\mathrm{res.} \mu_s$$ by propagating your uncertainty $$\delta_\mathrm{res.} \theta_c$$. Derive any formulas you use in your lab notebook.
 
@@ -108,4 +123,6 @@ Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within t
 
 ## Checkpoint 1
 
-[Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297)
++ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297)
+
++ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1)
