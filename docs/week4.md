@@ -69,7 +69,11 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 [![annotated figure without a plot](images/annotated-figure-no-plot.png)](images/annotated-figure-no-plot.png){:target="_blank"}
 
 
+
+
+
 ## Module 1 Deliverable
 
-Submit a figure with a plot and caption on Gradescope. 
+What do I need to make for Module I?
 
+For Module I, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the plan (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:

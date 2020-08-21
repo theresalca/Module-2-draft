@@ -12,7 +12,7 @@
 --------------
 
 
-We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NDAzNzQwOTE4){:target="_blank"}. 
+We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NzAxMDcyNjUz/details){:target="_blank"}. 
 
 **Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page.**
 
@@ -71,7 +71,7 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 + Check other factors that might affect your measurement (this is where you get to play!)
 
-The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NDAzNzQwOTE4){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
+The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NzAxMDcyNjUz/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
 
 
 #### 1 Perform a Single Measurement
