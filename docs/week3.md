@@ -15,15 +15,26 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 2. Begin by creating a worksheet. This can be a new sheet in your existing worksheet using the add sheet button in the bottom left or a new worksheet.
 3. Set up a table to determine the critical angle for the first mass.
 
-    i. Give the table a title.
+    + Give the table a title.
 
-    ii. Use the borders feature to outline the table.
+    + Title the column you will be using for data collection ($$\theta_c$$)
+
+    + Use the borders feature to outline the table.
     
-    <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
+        <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
 
 4. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data.
+    + You can add a chart by selecting "insert" and then "chart" from the drop down menus.
 
-**Add details for setting up histogram
+    + A new "Chart Editor" Menu will appear on the RHS of the screen. Use the drop down menu under chart type to select "histogram".
+
+        <img src="images/Histogram.JPG" alt="The border button will allow you to outline your table" width="125"/>
+
+    + On the next line of the "Chart Editor" set data range to be the cells in which you plan to insert your data (you may have to go back and edit this later if you collect more data than expected)
+
+    + Press the x in the top right to exit the chart editr.
+
+    + Click on your chart and move it to a convenient spot in your worksheet. You will want to customize the chart further once you begin collecting data.
 
 5. Now add a line to calculate the average value for the critical angle, $$\theta_c$$ and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week's worksheet to set-up the calculations.
 
@@ -37,10 +48,26 @@ so that your spreadsheet is already set-up for your second mass.
 
 Your real-time histogram should guide you in determining when you have enough data. You should have a histogram with enough data that you feel you have a reasonable estimate of the mean and its uncertainty. Remember, our goal is to compare the results we obtain from two different masses in order to test our hypothesis. We would like to determine whether or not the results are equivalent to within our experimental error we need to accurately estimate that experimental error. We would also like to reduce the uncertainty as much as possible to make this a more meaningful experiment.
 
-Once you are happy with your histgram for the first mass, switch to the second tab and collect data for the second mass.
+Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data. 
+
++ Use the Chart and axis title dropdown to add a chart title
+
++ Within the same dropdown menu, if you click on chart title you can change the dropdown to "Horizontal axis title". Go ahead and label your axis.
+
++ The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
+
+Once you are happy with your histgram for the first mass, switch to the second tab and collect data for the second mass. Make sure to recoord all relevant details such as what mass you are using. Always include units when recording data.
 
 ## Step 3:Reflection
 
 It is important to take a mooment to reflect on your results. Are there any anomolies in your data? (This is often a reason to collect more data). Are your final results and uncertainties reasonable? How do your results compare with your hypothesis.
 
 ## Checkpiont #3
+
+Please submit the following to Checkpoint #3 on Gradescope
+
++ A screen-shot showing an organized spreadsheet used for data collection
+
++ Two histograms showing the number of data points measured as a function of the angle $$\theta_c$$
+
++ The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty.
