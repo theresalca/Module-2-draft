@@ -51,11 +51,11 @@ Your real-time histogram should guide you in determining when you have enough da
 
 Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data. 
 
-      i. Use the Chart and axis title dropdown to add a chart title
+    i. Use the Chart and axis title dropdown to add a chart title
 
-      ii. Within the same dropdown menu, if you click on chart title you can change the dropdown to "Horizontal axis title". Go ahead and label your axis.
+    ii. Within the same dropdown menu, if you click on chart title you can change the dropdown to "Horizontal axis title". Go ahead and label your axis.
 
-      iii. The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
+    iii. The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
 
 Once you are happy with your histgram for the first mass, switch to the second tab and collect data for the second mass. Make sure to recoord all relevant details such as what mass you are using. Always include units when recording data.
 
