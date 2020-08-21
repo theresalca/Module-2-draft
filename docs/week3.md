@@ -23,7 +23,12 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 
 4. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data.
 
-You can add a chart by selecting "insert" and then "chart" from the drop down menus.
+    i. You can add a chart by selecting "insert" and then "chart" from the drop down menus.
+
+    ii. A new "Chart Editor" Menu will appear on the RHS of the screen. Use the drop down menu under chart type to select "histogram".
+
+    <img src="images/Histogram.JPG" alt="The border button will allow you to outline your table" width="125"/>
+    
 **Add details for setting up histogram
 
 5. Now add a line to calculate the average value for the critical angle, $$\theta_c$$ and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week's worksheet to set-up the calculations.
