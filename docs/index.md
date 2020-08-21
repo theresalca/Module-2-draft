@@ -35,7 +35,7 @@ One of the main goals of this course is for you to "think like an experimental p
 3. Communication Phase
     - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. By the end of this course, we are going to build towards a scientific poster presentation.
 
-Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work in the exploratory phase: asking yourself about what the deeper conclusions could be can inform whether or not a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a "rules" for how experimental work always unfolds.
+Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work in the exploratory phase: asking yourself about what the deeper conclusions could be can inform whether or not a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a set of "rules" for how experimental work always unfolds.
 
 ## Weekly Plan
 

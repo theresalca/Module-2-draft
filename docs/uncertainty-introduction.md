@@ -68,13 +68,13 @@ If you attempt to repeat your measurement you most likely will observe some spre
 
 Clearly, Experiment B has a narrower spread in the data and therefore has a lower uncertainty, but how do we calculate this uncertainty? It seems reasonable that the result of your multiple measurement trials would be the mean value ± some uncertainty that is related to the spread in your data. The range in which 68% of your measurements reside is the mean ±σ where σ is the standard deviation of the data. However, taking more data will likely not decrease the value of the standard deviation of your data but it will surely increase your confidence in the mean and therefore should decrease the uncertainty. Therefore, the uncertainty we report will be $$\pm \sigma/\sqrt{N}$$, known as the standard error, where N is the number of trials (data points taken under “identical” experimental conditions).
 
-Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en).
+Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en){:target="_blank"}.
 
 Lesson check: If you take several trials of a particular measurement and record an identical value every time, does this mean you know the exact value with no uncertainty? What does this say about your experimental procedure?
 
 <details>
 <summary markdown='span'> (think about it first, then click to expand/collapse) 
-Answer: </summary>
+<br> Answer: </summary>
 
 If you recorded an identical value every time, then you would still have the uncertainty from the resolution uncertainty of your measurement device. Moreover, there might also be some systematic effect that you are missing (see discussion below). You should try to "reset" your experiment by re-setting-up your experimental apparatus. These small changes in how your apparatus is set up will lead to some random changes in the value you are measuring.
 
