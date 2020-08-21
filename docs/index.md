@@ -16,7 +16,7 @@
 ### Learning Objectives
 
 
-~~reinforce concepts you are learning in Ph51~~ ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816))
+~~reinforce concepts you are learning in Ph51~~ ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
 
 1. Create an experimental design based on exploratory observations 
 
