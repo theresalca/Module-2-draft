@@ -1,6 +1,6 @@
 # Module 1
 
-[Overview](#overview)
+[Module 1 Overview](#module-1-overview)
 
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase (part 1)](week1)
@@ -11,7 +11,7 @@
 [Background Reading](#background-reading)
 
 
-## Overview 
+## Module 1 Overview 
 
 ### Learning Objectives
 
@@ -35,13 +35,13 @@ One of the main goals of this course is for you to "think like an experimental p
 3. Communication Phase
     - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. By the end of this course, we are going to build towards a scientific poster presentation.
 
-Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work in the exploratory phase: asking yourself about what the deeper conclusions could be can inform whether or not a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a set of "rules" for how experimental work always unfolds.
+Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work in the exploratory phase: thinking of the possible conclusions that would result from your experiment can help you decide if a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a set of "rules" for how experimental work always unfolds.
 
 ## Weekly Plan
 
 To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a block on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. 
 
-Module 1 is three weeks long. Each week, you will have a checkpoint due that addresses each of the learning objectives in turn. You have a couple of options on how to proceed. We recommend you can dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. But alternatively, you can first read over the [Background Reading](#background-reading) below and learn about the new concepts you will use in this module before starting Week 1. 
+Module 1 is four weeks long. Each week, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 1 deliverable: a single figure with a caption that conveys what you learned from your experimentation. You have a couple of options on how to proceed. We recommend that you dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. But alternatively, you can first read over the Background Reading below and learn about the new concepts you will use in this module before starting Week 1. 
 
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty
@@ -50,7 +50,7 @@ Module 1 is three weeks long. Each week, you will have a checkpoint due that add
 3. Week 3 - Hypothesis Testing Phase
     - Checkpoint: rough plots and a conclusion based on your experimental measurements
 4. Week 4 - Scientific Communication Phase
-    - Checkpoint: a figure with a caption that communicates your results
+    - Deliverable: a figure with a caption that communicates your results
 
 
 
