@@ -84,15 +84,20 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 
 
 The above plot was produced using MATLAB with the following commands:
-``` MATLAB
->> distances = [5,30]; 
->> mus = [0.495, 0.371]; 
->> muerrors = [0.002, 0.005];
->> errorbar(distances,mus,muerrors,'k.');
->> xlabel('distance from bottom of cutting board (cm)');
->> ylabel('coefficient of static friction \mu_s');
->> xlim([0,40]); ylim([0.3,0.55]);
-```
+
+
+
+{% highlight matlab  %}
+
+distances = [5,30]; 
+mus = [0.495, 0.371]; 
+muerrors = [0.002, 0.005];
+errorbar(distances,mus,muerrors,'k.');
+xlabel('distance from bottom of cutting board (cm)');
+ylabel('coefficient of static friction \mu_s');
+xlim([0,40]); ylim([0.3,0.55]);
+{% endhighlight %}
+
 
 
 The two panels were assembled into a figure using Powerpoint.
