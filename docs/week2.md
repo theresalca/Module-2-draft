@@ -66,10 +66,10 @@ Trial #	| $$\theta_c$$ (degrees)
 From this preliminary test of repeatability, we would like to get an idea of what the variance of our distribution of measurements might be. With only a few datapoints, calculating the standard deviation will probably not give an accurate reflection of the underlying distribution. So let's take a conservative estimate of how random our dataset is by using the "spread" in the data: the maximum minus minimum value we measured.
 
 + How does the spread in the data (maximum measured $$\theta_c$$ minus minimum $$\theta_c$$) compare to the resolution uncertainty? 
-    + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or taking many repeated trials (reducing our random uncertainty)
+    + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or taking many repeated trials (reducing our random uncertainty)?
 
 
- Assuming this spread approximates our standard deviation, let's use this to estimate how many trials we might need to reach a desired random uncertainty (standard error of the mean). 
+ Assuming this spread approximates our standard deviation $$\sigma$$, let's use this to estimate how many trials we might need to reach a desired random uncertainty (standard error of the mean). Remember $$\textrm{SEM} = \sigma/sqrt{N}$$. 
 
 
 | Desired random uncertainty / standard error of the mean (degrees) |	Number of trials likely required per datapoint|
@@ -82,6 +82,8 @@ From this preliminary test of repeatability, we would like to get an idea of wha
 
 
 + How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
+
+Remember our goal is to make the strongest conclusion we can, which involves minimizing the experimental uncertainty. But more trials will take more time to perform,and there are diminishing returns to taking more datapoints. There is no right answer for balancing these two, but decide on the number of datapoints you will take and explain your reasoning in your experimental design.
 
 
 #### Miniquestion: How Many Trials
