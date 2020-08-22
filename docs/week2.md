@@ -69,7 +69,7 @@ From this preliminary test of repeatability, we would like to get an idea of wha
     + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or taking many repeated trials (reducing our random uncertainty)?
 
 
- Assuming this spread approximates our standard deviation $$\sigma$$, let's use this to estimate how many trials we might need to reach a desired random uncertainty (standard error of the mean). Remember $$\textrm{SEM} = \sigma/sqrt{N}$$. 
+ Assuming this spread approximates our standard deviation $$\sigma$$, let's use this to estimate how many trials we might need to reach a desired random uncertainty (standard error of the mean). Remember $$\textrm{SEM} = \sigma/\sqrt{N}$$. 
 
 
 | Desired random uncertainty / standard error of the mean (degrees) |	Number of trials likely required per datapoint|
