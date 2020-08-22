@@ -20,7 +20,7 @@
 
 #### 1 Perform a Single Measurement
 
-From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [ask for help on Piazza](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"}. 
+From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [ask for help on Piazza](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"} or [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}. 
 
 
 #### 2 Perform a preliminary test of the hypothesis
@@ -66,7 +66,7 @@ Trial #	| $$\theta_c$$ (degrees)
 
 How does the spread in the data (maximum measured $$\theta_c$$ minus minimum $$\theta_c$$) compare to the resolution uncertainty?
 
-If the spread in your data was representative of the standard deviation, how many data points would you need to take for the random uncertainty to equal your resolution uncertainty? 
+If the spread in your data was representative of the standard deviation for this small number of data points, how many data points would you need to take for the random uncertainty to equal your resolution uncertainty? How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty?
 
 #### Mini-question
 
@@ -98,7 +98,7 @@ If any of these factors affect the measurement, which ones are most significant?
 
 ## Designing the Experiment
 
-At the end of the exploratory observations, we can now complete an Experimental Design that will determine how the actual experiment will be performed. Think of 
+At the end of the exploratory observations, we can now complete an Experimental Design that will determine how the actual experiment will be performed. 
 
 Some questions to answer in your experimental design:
 

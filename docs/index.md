@@ -41,7 +41,7 @@ Although we are going to treat these phases as separate, linear progression, the
 
 To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a block on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. 
 
-Module 1 is three weeks long. Each week, you will have a checkpoint due that addresses each of the learning objectives in turn. You have a couple of options on how to proceed. You can first read over the [Background Reading](#background-reading) below and learn about the main experimental concepts you will use in this module before starting Week 1. Alternatively, you can dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. 
+Module 1 is three weeks long. Each week, you will have a checkpoint due that addresses each of the learning objectives in turn. You have a couple of options on how to proceed. We recommend you can dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. But alternatively, you can first read over the [Background Reading](#background-reading) below and learn about the new concepts you will use in this module before starting Week 1. 
 
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty
@@ -56,13 +56,9 @@ Module 1 is three weeks long. Each week, you will have a checkpoint due that add
 
 ## Background Reading
 
-+ [More about the Phases of Experimental Work](experimental-phases.md)
-
-+ [The Relationship between the Critical Angle for Slipping $$\theta_c$$ and the Coefficient of Static Friction $$\mu_s$$](https://youtu.be/EUT0F3k4asc?t=217)
++ [The Relationship between the Critical Angle for Slipping $$\theta_c$$ and the Coefficient of Static Friction $$\mu_s$$](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing){:target="_blank"}
 
 + [Introduction to Uncertainties](uncertainty-introduction.md)
-
-+ [Guide to Creating a Data Figure](figure-guide.md)
 
 ## Other Information
 
