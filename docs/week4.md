@@ -76,4 +76,23 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 What do I need to make for Module I?
 
-For Module I, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the plan (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
+For Module I, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
+
+
+![figure example](images/figure-example.png)
+Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 10 cm. (b) The two values do not agree within the error bars, which indicate the standard error of the mean.
+
+
+The above plot was produced using MATLAB with the following commands:
+``` MATLAB
+>> distances = [5,30]; 
+>> mus = [0.495, 0.371]; 
+>> muerrors = [0.002, 0.005];
+>> errorbar(distances,mus,muerrors,'k.');
+>> xlabel('distance from bottom of cutting board (cm)');
+>> ylabel('coefficient of static friction \mu_s');
+>> xlim([0,40]); ylim([0.3,0.55]);
+```
+
+
+The two panels were assembled into a figure using Powerpoint.
