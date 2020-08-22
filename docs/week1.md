@@ -27,7 +27,8 @@ In your lab notebook, try the derivation yourself and document the result.
 
 We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of factors will affect a measurement of $$\theta_c$$?
 
-#### Mini-question
+#### Miniquestion: Critical Angle Factors
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfsx8s07WCsCfoSiP2k2TAldJ-59ZFq16UpUFlPugfHGEq38w/viewform){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsx8s07WCsCfoSiP2k2TAldJ-59ZFq16UpUFlPugfHGEq38w/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
@@ -101,8 +102,8 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 --------
 
-#### Mini-question
-The radius of a circle is measured to be $$2.4 \pm 0.3 \textrm{cm}$$. What is the area of the circle?
+#### Miniquestion: Uncertainty Propagation
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

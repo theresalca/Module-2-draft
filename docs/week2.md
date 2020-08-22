@@ -62,11 +62,30 @@ Trial #	| $$\theta_c$$ (degrees)
 3	|		
 4	|		
 
-How does the spread in the data (maximum measured $$\theta_c$$ minus minimum $$\theta_c$$) compare to the resolution uncertainty?
 
-If the spread in your data was representative of the standard deviation for this small number of data points, how many data points would you need to take for the random uncertainty to equal your resolution uncertainty? How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty?
+From this preliminary test of repeatability, we would like to get an idea of what the variance of our distribution of measurements might be. With only a few datapoints, calculating the standard deviation will probably not give an accurate reflection of the underlying distribution. So let's take a conservative estimate of how random our dataset is by using the "spread" in the data: the maximum minus minimum value we measured.
 
-#### Mini-question
++ How does the spread in the data (maximum measured $$\theta_c$$ minus minimum $$\theta_c$$) compare to the resolution uncertainty? 
+    + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or taking many repeated trials (reducing our random uncertainty)
+
+
+ Assuming this spread approximates our standard deviation, let's use this to estimate how many trials we might need to reach a desired random uncertainty (standard error of the mean). 
+
+
+| Desired random uncertainty / standard error of the mean (degrees) |	Number of trials likely required per datapoint|
+|:-----------------:|:------------------:|
+| 2 |	|
+| 1	 | |
+| 0.5 |	|
+| 0.1	| |
+| 0.01	|| 
+
+
++ How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
+
+
+#### Miniquestion: How Many Trials
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform){:target="_blank"}*
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
