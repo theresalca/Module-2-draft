@@ -18,7 +18,7 @@ Estimating the uncertainty of our measurements enables us to make conclusions fr
 
 In panel (i), the measured velocities of cars A and B are reported, but we are given no indication of how certain we are about the results from those two measurements. It's difficult to draw a conclusion from this type of data because we don't know how confident we are about the two data points. 
 
-Instead, if the values are reported with their uncertainties as in (ii), the error bars (the vertical lines around each data point) give an indication of how confident we are that the actual speed for each car falls within a range of values. In this example, the velocity of car A is reported as $$v_A = 23 \pm 5\,\mathrm{m/s}$$ and the velocity of car B is $$v_B = 18 \pm 5 \, \mathrm{m/s}$$. Because the error bars are relatively large compared to the difference between A and B in (ii), we might conclude the following: *"The speed of A and B were measured to be similar and their difference was within the experimental uncertainty of $$\pm$$ 5 m/s."* In other words, the experiment was not sensitive enough to tell the difference between the speed of A and B. 
+Instead, if the values are reported with their uncertainties as in (ii), the error bars (the vertical lines around each data point) give an indication of how confident we are that the actual speed for each car falls within a range of values. In this example, the velocity of car A is reported as $$v_A = 23 \pm 5\,\mathrm{m/s}$$ and the velocity of car B is $$v_B = 18 \pm 5 \, \mathrm{m/s}$$. Because the error bars are relatively large compared to the difference between A and B in (ii), we might conclude the following: *"The speed of A and B was measured to be similar and their difference was within the experimental uncertainty of $$\pm$$ 5 m/s."* In other words, the experiment was not sensitive enough to tell the difference between the speed of A and B. 
 
 If we had used a more sensitive experimental technique, that would give a smaller uncertainty as in (iii). This smaller experimental uncertainty lets us make a more powerful conclusion: *"The velocity of car A was measured to be faster than that of car B, with $$v_A = 23 \pm 2\,\mathrm{m/s}$$ and $$v_B = 18 \pm 2 \, \mathrm{m/s}$$.* By minimizing sources of uncertainty in our experiments and providing accurate estimates of how large the uncertainties are in our measurements, we are able to make strong conclusions about our experiments.
 
@@ -51,6 +51,15 @@ Finally, we obtain a measurement device that can measure much smaller intervals 
 ![image of a meter stick zoomed in a lot](images/meter-stick-3.png)
 
 Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the resolution uncertainty. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgement and common sense.
+
+In the context of our online Ph50 course, you will use a ruler to measure distances in Module 3. In Module 2, you will measure the movement of an object in a video. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels) and the uncertainty in the time at which each frame of the video occurs (in seconds). 
+
+For Module 1, you are using a digital readout of the angle of inclination from the phyphox app on your phone: 
+
+<img src="images/phyphox-resolution.jpg" alt="resolution uncertainty from a digital readout" width=150 />
+
+Similar to the ruler, a good estimate of the resolution uncertainty is half of the last digit reported in the digital readout. In this example, we have measured $$\theta=1.59\,^\circ$$ with a resolution uncertainty in the angle of $$\delta_\mathrm{res.} \theta = 0.005 \,^\circ$$.
+
 
 [*Return to Module 1 Week 1*](week1#1-perform-a-single-measurement)
 
