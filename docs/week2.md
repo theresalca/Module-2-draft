@@ -11,7 +11,7 @@
 
 --------------
 
-**Make sure you have your [Module 1 Data Sheet and Lab Notebook](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3NzAxMDcyNjUz/details){:target="_blank"} handy as you go through the content on this Week 1 page.**
+**Make sure you have your [Module 1 Data Sheet and Lab Notebook](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"} handy as you go through the content on this Week 1 page.**
 
 
 ## Exploratory Measurements
