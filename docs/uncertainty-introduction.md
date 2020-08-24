@@ -66,18 +66,78 @@ Similar to the ruler, a good estimate of the resolution uncertainty is half of t
 
 -------------------------------------------
 
-Week 2:
+Week 2 related reading:
 
 ### Random Uncertainty
-If you attempt to repeat your measurement you most likely will observe some spread in your measured values values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab – so we call them random. These variations in data cause a spread in your data, as shown in the two histograms of repeated measurements from experiments A and B below:
-
-![Historgam of measurements from two experiments](images/PDF-random-uncertainty.png)
-*Histogram of length measurements of a single object for two different experiments, A and B. What can you say about the difference in your confidence between the results of Experiment A and B?  (Area = 0.68 indicates in each case that the shaded area contains 68% of the total trials.)*
+If you attempt to repeat your measurement you most likely will observe some spread in your measured values values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab – so we call them random. These variations in data cause a spread in your data.
 
 
-Clearly, Experiment B has a narrower spread in the data and therefore has a lower uncertainty, but how do we calculate this uncertainty? It seems reasonable that the result of your multiple measurement trials would be the mean value ± some uncertainty that is related to the spread in your data. The range in which 68% of your measurements reside is the mean ±σ where σ is the standard deviation of the data. However, taking more data will likely not decrease the value of the standard deviation of your data but it will surely increase your confidence in the mean and therefore should decrease the uncertainty. Therefore, the uncertainty we report will be $$\pm \sigma/\sqrt{N}$$, known as the standard error of the mean (SEM), where N is the number of trials (data points taken under “identical” experimental conditions).
+To think through how we should treat these random uncertainties, let's look at an example thought experiment. Suppose we measure the length of an object using two different techniques/procedures, call them "Technique A" and "Technique B". Let's assume that Technique B somehow has more randomness in the measurement process (maybe the procedure for Technique B requires the experiments to occur in a dusty wind tunnel?). We can think of the experimental process as creating a theoretical probability density function with a mean $$\mu$$ and standard deviation $$\sigma$$. Each time we perform a single experimental measurement, we are sampling from these theoretical probability distributions, and suppose in our thought experiment they look like: 
 
-Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en){:target="_blank"}.
+![theoretical probability density function of two different experiments](images/theor-pdf.jpg)
+
+Although the two techniques theoretically have the same mean value, Technique B has a larger standard deviation. This means that if we were to use Technique B for our experiment, we would be sampling from a broader probability distribution than if we used Technique A. 
+
+So now let's start taking data in these two thought experiments. Suppose we took $$n=3$$ data points using each technique (with each point taken under “identical” experimental conditions), and looked at the number of times we measured each value of the length:
+
+![experiment with 3 data points](images/exper-n3-nostats.jpg)
+
+In these first 3 data points from each technique, we happened to have measured values between 83.4 and 83.5 cm. For each technique we calculate three important statistical quantities:
+
+------------------------------
+
+#### Sample mean
+The sample mean is the sum of all the observed values divided by the sample size:
+
+$$x_\mathrm{mean} = \frac{x_1 + x_2 + ... + x_n}{n}$$
+
+#### Sample standard deviation
+The sample standard deviation is (approximately) the root-mean-squared deviation of the observed values from the sample mean:
+
+$$x_\mathrm{dev.} = \sqrt{\frac{ (x_1-x_\mathrm{mean})^2 +(x_2-x_\mathrm{mean})^2 + ... +(x_n-x_\mathrm{mean})^2}{n-1}}$$
+
+Intuitively, the sample standard deviation represents a most likely range of values around the mean for where were would find our data. If we were taking one more data point, more than likely ($$\approx$$ 68% of the time if we are sampling from a Normal Distribution) we would expect to find that next data point within one sample standard deviation of the sample mean. 
+
+*Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en){:target="_blank"}. In MATLAB, you can use the [std function](https://www.mathworks.com/help/matlab/ref/std.html).*
+
+#### Standard error of the mean (SEM)
+The standard error of the mean represents the expected deviation of the calculated sample mean if many other samples of $$n$$ datapoints were taken. Intuitively, SEM reflects how confident we are that the sample mean is truly representative of the "actual" mean value of our distribution (what we called $$\mu$$ in our theoretical distributions; this actual mean value is also called the "population mean"). The standard error of the mean can be estimated from the sample standard deviation as:
+
+$$\mathrm{SEM} = \frac{x_\mathrm{dev.}}{\sqrt{N}}$$
+
+*For more information about the SEM, check out paragraph 130-131 and associated footnotes [of this document](images/Essentials-of-Statistical-Methods.pdf){:target="_blank"}.*
+
+
+
+**Main point: our best estimate of our experimentally measured value is the sample mean, and our best estimate of its random uncertainty is the standard error of the mean. So only considering random sources of uncertainty, we would report $$x_\mathrm{mean} \pm  \mathrm{SEM}$$**
+
+----------------------------------------
+
+Returning to our example with $$n=3$$ for our two techniques, and looking at these at these three important quantities (sample mean, sample standard deviation, and standard error of the mean):
+
+![experiment with 3 data points](images/exper-n3.jpg)
+
+Let's compare our sample means ($$x_\mathrm{mean} \pm \mathrm{SEM}$$) with the actual mean ($$\mu = 83.5$$ cm). 
+
+Technique: | $$x_\mathrm{mean}$$ [cm] | SEM [cm]
+|:--------:|:------------------------:|:--------|
+A | 83.477 | 0.015
+B | 83.444 | 0.005 
+
+Even though this data was obtained by sampling the two theoretical distributions, neither of these techniques results in a measured value within uncertainty of the actual mean. For example, Technique B gave us a sample mean value that is over 10 times the SEM away from the actual mean! What went wrong? We only used $$n=3$$ data points, which isn't enough to ensure that we are adequately sampling the distribution.
+
+**Important: doing a statistical analysis on a small sample size is a bad idea. As a rough rule-of-thumb, take at least 6 data points before applying any statistical tools.** 
+
+Let's repeat that same thought experiment, but now we will sample each distribution $$n=10$$ times (take 10 data points for each experimental technique):
+![experiment with 10 data points](images/exper-n10.jpg)
+Now we can see that Technique A has less variability than Technique B because the left histogram has more observations close to the same value. We also see from the summary statistics in the graphs that the sample standard deviations are close to that of the underlying distributions ($$x_\mathrm{dev.} \approx \sigma$$ for both). And most importantly, the sample means are closer to the actual mean value, with the SEM providing an adequate approximation for the uncertainty in the sample mean. 
+
+We could continue this process of collecting more data points to try to reduce the random uncertainty. Here is the same two techniques but with $$n=100$$ data ponts:
+![experiment with 100 data points](images/exper-n100.jpg)
+By taking more data points, even with the experimental technique that had a larger variability, we were still able to end up with an accurate estimate of the mean, with an smaller esimated uncertainty from the SEM. Taking more data points results in reducing the random effects that pop up in our experiments, and makes our random uncertainty smaller.
+
+But this reduced uncertainty comes at the cost of time. Performing a large number of trials takes a long time, and it's often not practical to repeat a measurement hundreds of times. There's also a diminishing return. If we increase the number of data points by 10 times, we only expect our random uncertainty (SEM) to drop by a factor of $$\frac{1}{\sqrt{10}}$$. As an experimentalist, we need to balance our desire for a strong conclusion with the time required to perform the experiment. 
+
 
 Lesson check: If you take several trials of a particular measurement and record an identical value every time, does this mean you know the exact value with no uncertainty? What does this say about your experimental procedure?
 
@@ -85,7 +145,7 @@ Lesson check: If you take several trials of a particular measurement and record 
 <summary markdown='span'> (think about it first, then click to expand/collapse) 
 <br> Answer: </summary>
 
-If you recorded an identical value every time, then you would still have the uncertainty from the resolution uncertainty of your measurement device. Moreover, there might also be some systematic effect that you are missing (see discussion below). You should try to "reset" your experiment by re-setting-up your experimental apparatus. These small changes in how your apparatus is set up will lead to some random changes in the value you are measuring.
+If you recorded an identical value every time, then you would still have the uncertainty from the resolution uncertainty of your measurement device. Moreover, there might also be some systematic effect that you are missing (see discussion below). You should try to "reset" your experiment by taking down and re-setting-up your experimental apparatus. These small changes in how your apparatus is set up will lead to some random changes in the value you are measuring.
 
 </details>
 
