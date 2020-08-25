@@ -22,6 +22,13 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ------------
 
+#### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…</iframe>
+
+-------------
+
 ## Week 2
 
 #### Miniquestion: How Many Trials
