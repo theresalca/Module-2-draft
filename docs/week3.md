@@ -1,13 +1,52 @@
 # Week 3: Generating Data to Test a Hypothesis
-This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than last week's quick test.
+This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Weeks 1-2.
 
-At the end of this week you should have a complete data set for the measured critical angle for two different masses.
+At the end of this week you should have a complete data set for the measured critical angle for (at least) two different masses.
+
+Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to do ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
+
+*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might engaging in a "Questionable Research Practice" ([explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/) and also [relevant xkcd](https://www.explainxkcd.com/wiki/index.php/882:_Significant)).
+
+To provide some separation between our experimental decisions and our hypothesis testing, we will iterate on our experimental design. It's okay to change your plan if it turned out to be a bad one. But we want to provide some justification for any changes we make to our initial plan. Here we will provide more details about the two principles we will employ this week, **"real-time data visualization"** and **"iterative experimental design"**. We encourage you to refer back to them as you undertake your detailed data collection.
+
+### Real-time Data Visualization
+
+An important habit we would like you to develop as an experimentalist is to be plotting/visualizing your data as you take it. Even though you made a plan with your experimental design, there are many unexpected things that can happen. You should set up your data collection (e.g. in Google Sheets) so that recording each data point automatically updates a plot with your data and calculates statistical quantities (sample mean, sample standard deviation, and standard error of the mean). Here are some things to keep an eye out for as your taking your data:
+
++ Is your sample mean very different than what you measured in your exploratory analysis? 
+    + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach
++ Is your sample standard deviation much larger than what you found in your exploratory analysis? 
+    + If so, then maybe you need to revise how many data points you plan on taking
++ Does your data look Normally-Distributed* (like a Gaussian, bell-curve)?
+    + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design
+    
+    **Note: if you have taken only a few data points, you shouldn't expect your data to look like it's Normally-Distributed, even if it was being sampled from a Normal distribution. Make sure you take enough data before checking if it's Normally-Distributed*
+
+---------------------------------
+#### Miniquestion: Making an experimental plan
+[*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-------------------
+
+### Iterative Experimental Design
+
+If your real-time data visualization indicates something is going wrong, you should iterate on your experimental design. Sometimes this is just as simple as making a note in your lab notebook of the revised plan. For example, *"The first 5 data points had sample standard deviation larger than what was observed in the exploratory measurement. Instead of 10 data points, I will now take 20."*
+
+Or maybe you've noticed some uncontrolled factor in your experiment and you need to start over. In that case, carefully note any data that was taken, but do not delete it! Even if you aren't going to include data you've taken in your analysis it's important to keep a record of what happened. Here's an example: *"My experimental design called for 10 data points, but in my first 5 data points I noticed a larger standard deviation than I expected based on my exploratory measurements. I noticed that the pencils inside my hard pencil case (used as the block) were sometimes shifting inside the pencil case before the pencil case was slipping on my book (the ramp). The first 5 trials were taken without carefully controlling that factor, and I will not include them in my analysis. In subsequent trials, I will make sure the pencils are pushed up against the "downhill" side of the pencil case before starting. I will take 10 new data points according to my experimental design."*
+
+But often even if things go as planned and we finish taking data according to our experimental design, we can end up with an inconclusive or unclear result. Just because you complete your experimental design, doesn't mean you are done with your experiment! It's far easier to communicate your results when there is a clear conclusion. So it's often worth the effort to revise your plan and take more data, which will save you time trying to communicate your results (which we will do in Week 4).
+
+As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years to build up the knowledge and intuition to comfortably decide "when am I done?". Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion. 
+
+
+
 
 ## Step 1: Set-up a Spreadsheet
 Your spreadsheet should allow you to:
-1. Record data
-2. Plot your data in real time. This is essential to guide choices during data collection. In this case we will plot our data as a histogram.
-3. Analyze your data. In this case your goal is to determine the co-efficient of static friction for each mass.
++ Record data.
++ Plot your data in real time.
++ Analyze your data. In this case your goal is to determine the co-efficient of static friction for each mass.
 
 Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way. These steps will guide you through this process:
 
@@ -24,10 +63,6 @@ Look back to the spreadsheet you used for your preliminary data collection last 
     
         <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
 
-#### Miniquestion: Making an experimental plan
-[*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 3. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data. Here we summarize how to create a histogram in sheets. You can find more helpful information at: [*Click here to open in a new tab*](https://support.google.com/docs/answer/9146867?hl=en){:target="_blank"}
 
