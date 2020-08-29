@@ -48,9 +48,8 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 6. Add another row to use the same calculations you did last week to calculate the coefficient of static friction, $$\mu_s$$, for your new data set.
 
 7. Finally duplicate the sheet. At the bottom left are tabs that allow you to have multiple sheets in your worksheet. If you click on the downward arrow next to your sheet name a menu will appear. Click on "duplicate" and you will now have a second identical sheet ready for data from your second mass. You can rename your sheets from the same menu.
- <img src="images/Duplicating_sheet_in_sheets.JPG" alt="The duplicate menu item will allow you to duplicate your worksheet, easily creating a second worksheet already set-up for the second mass" width="125"/>
-*** add instructions
-so that your spreadsheet is already set-up for your second mass.
+ <img src="images/Duplicating_sheet_in_sheets.png" alt="The duplicate menu item will allow you to duplicate your worksheet, easily creating a second worksheet already set-up for the second mass" width="125"/>
+
 
 ## Step 2: Collect and analyze data
 
