@@ -129,7 +129,7 @@ Some questions to answer in your experimental design:
 
 + What factors are you going to control (hold constant)?
 
-+ How many data points will you take? (Given the spread of your preliminary data, think about an acceptable random uncertainty to observe an effect)
++ How many data points will you take? (Given the spread of your preliminary data, think about an acceptable random uncertainty to observe an effect. You should follow a similar approach to the "How Many Trials" mini-question to make this estimate).
 
 + In what order will you take the data points? (think about shuffling the order of data points you take)
 
