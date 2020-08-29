@@ -11,19 +11,25 @@ Your spreadsheet should allow you to:
 
 Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way. These steps will guide you through this process:
 
-1. Take a careful look at the spreadsheet we provided. Think about how it is organized: e.g. division into sections and headings for both sections and data columns. To make the most of your worksheets they need to be organized.
-2. Begin by creating a worksheet. This can be a new sheet in your existing worksheet using the add sheet button in the bottom left or a new worksheet.
-3. Set up a table to determine the critical angle for the first mass.
+1. Begin by creating a worksheet. This can be a new sheet in your existing worksheet using the add sheet button in the bottom left or a new worksheet.
+2. Set up a table to determine the critical angle for the first mass.
 
     + Give the table a title.
 
     + Title the column you will be using for data collection ($$\theta_c$$)
 
+    + As part of the Experimental Design you prepared for the week #2 checkpoint you estimated a reasonable number of data points to achieve the desired accuracy. Use this as a guide for how many rows to include in your table. 
+
     + Use the borders feature to outline the table.
     
         <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
 
-4. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data. Here we summarize how to create a histogram in sheets. You can find more helpful information at: [*Click here to open in a new tab*](https://support.google.com/docs/answer/9146867?hl=en){:target="_blank"}
+#### Miniquestion: Making an experimental plan
+[*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+3. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data. Here we summarize how to create a histogram in sheets. You can find more helpful information at: [*Click here to open in a new tab*](https://support.google.com/docs/answer/9146867?hl=en){:target="_blank"}
 
     + You can add a chart by selecting "insert" and then "chart" from the drop down menus.
 
@@ -37,9 +43,9 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 
     + Click on your chart and move it to a convenient spot in your worksheet. You will want to customize the chart further once you begin collecting data.
 
-5. Now add a line to calculate the average value for the critical angle, $$\theta_c$$ and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week's worksheet to set-up the calculations.
+5. Now add a row to calculate the average value for the critical angle, $$\theta_c$$ and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week's worksheet to set-up the calculations.
 
-6. Add another line to use the same calculations you did last week to calculate the coefficient of static friction, $$\mu_s$$, for your new data set.
+6. Add another row to use the same calculations you did last week to calculate the coefficient of static friction, $$\mu_s$$, for your new data set.
 
 7. Finally duplicate the sheet
 *** add instructions
