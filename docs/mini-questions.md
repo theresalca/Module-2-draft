@@ -42,7 +42,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 #### Miniquestion: Making an experimental plan
 [*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/dUEeSjauPuXdWdGQA" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 --------------
 
 ## Week 4
