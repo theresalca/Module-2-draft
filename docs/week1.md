@@ -127,7 +127,8 @@ Before you submit Checkpoint 1, let's first double-check your procedure. Using t
 #### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 -------------
 
