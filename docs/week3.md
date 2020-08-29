@@ -1,4 +1,4 @@
-# Week 3: Generating Data to Test a Hypthesis
+# Week 3: Generating Data to Test a Hypothesis
 This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than last week's quick test.
 
 At the end of this week you should have a complete data set for the measured critical angle for two different masses.
@@ -39,7 +39,7 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 
     + On the next line of the "Chart Editor" set data range to be the cells in which you plan to insert your data (you may have to go back and edit this later if you collect more data than expected)
 
-    + Press the x in the top right to exit the chart editr.
+    + Press the x in the top right to exit the chart editor.
 
     + Click on your chart and move it to a convenient spot in your worksheet. You will want to customize the chart further once you begin collecting data.
 
@@ -63,11 +63,11 @@ Once you have collected a few data points you will want to go back to the chart 
 
 + The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
 
-Once you are happy with your histgram for the first mass, switch to the second tab and collect data for the second mass. Make sure to recoord all relevant details such as what mass you are using. Always include units when recording data.
+Once you are happy with your histogram for the first mass, switch to the second tab and collect data for the second mass. Make sure to record all relevant details such as what mass you are using. Always include units when recording data.
 
 ## Step 3:Reflection
 
-It is important to take a mooment to reflect on your results. Are there any anomolies in your data? (This is often a reason to collect more data). Are your final results and uncertainties reasonable? How do your results compare with your hypothesis.
+It is important to take a moment to reflect on your results. Are there any anomalies in your data? (This is often a reason to collect more data). Are your final results and uncertainties reasonable? How do your results compare with your hypothesis.
 
 ## Checkpiont #3
 
