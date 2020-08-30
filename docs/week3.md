@@ -1,11 +1,18 @@
 # Week 3: Generating Data to Test a Hypothesis
+
 This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Weeks 1-2.
+
+[Background Reading for Week 3](#background-reading-and-miniquestions)
+
+[Data Collection for Week 3](#data-collection)
+
+## Background Reading and Miniquestions
 
 At the end of this week you should have a complete data set for the measured critical angle for (at least) two different masses.
 
 Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to do ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
 
-*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might engaging in a "Questionable Research Practice" ([explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/) and also [relevant xkcd](https://www.explainxkcd.com/wiki/index.php/882:_Significant)).
+*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might engaging in a "Questionable Research Practice" ([explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"} and [related xkcd](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}).
 
 To provide some separation between our experimental decisions and our hypothesis testing, we will iterate on our experimental design. It's okay to change your plan if it turned out to be a bad one. But we want to provide some justification for any changes we make to our initial plan. Here we will provide more details about the two principles we will employ this week, **"real-time data visualization"** and **"iterative experimental design"**. We encourage you to refer back to them as you undertake your detailed data collection.
 
@@ -23,10 +30,13 @@ An important habit we would like you to develop as an experimentalist is to be p
     **Note: if you have taken only a few data points, you shouldn't expect your data to look like it's Normally-Distributed, even if it was being sampled from a Normal distribution. Make sure you take enough data before checking if it's Normally-Distributed*
 
 ---------------------------------
+
 #### Miniquestion: Making an experimental plan
 [*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
 -------------------
 
 ### Iterative Experimental Design
@@ -39,16 +49,36 @@ But often even if things go as planned and we finish taking data according to ou
 
 As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years to build up the knowledge and intuition to comfortably decide "when am I done?". Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion. 
 
+-------
 
+#### Miniquestion: Iterative Experimental Design
+[*Click here to open in a new tab*](https://forms.gle/NcgosyMdDvaTssni6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbfx5oJyy117QD2xn4THhV6s-pbtv_T4cbtJFu0922d46eMw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
+-----
+## Week 3 - Generating Data to Test a Hypothesis
 
-## Step 1: Set-up a Spreadsheet
+## Data Collection
+
+### Step 1: Set-up a Spreadsheet
 Your spreadsheet should allow you to:
 + Record data.
 + Plot your data in real time.
 + Analyze your data. In this case your goal is to determine the co-efficient of static friction for each mass.
 
-Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way. These steps will guide you through this process:
+![spreadsheet example](images/plot-as-you-go.gif)
+
+
+Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way. 
+
+
+<details>
+<summary markdown='span'>Click here for detailed steps to guide you through the process of setting up your spreadsheet
+</summary>
+
+These steps will guide you through this process:
+
 
 1. Begin by creating a worksheet. This can be a new sheet in your existing worksheet using the add sheet button in the bottom left or a new worksheet.
 2. Set up a table to determine the critical angle for the first mass.
@@ -85,11 +115,6 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 7. Finally duplicate the sheet. At the bottom left are tabs that allow you to have multiple sheets in your worksheet. If you click on the downward arrow next to your sheet name a menu will appear. Click on "duplicate" and you will now have a second identical sheet ready for data from your second mass. You can rename your sheets from the same menu.
  <img src="images/Duplicating_sheet_in_sheets.png" alt="The duplicate menu item will allow you to duplicate your worksheet, easily creating a second worksheet already set-up for the second mass" width="125"/>
 
-
-## Step 2: Collect and analyze data
-
-Your real-time histogram should guide you in determining when you have enough data. You should have a histogram with enough data that you feel you have a reasonable estimate of the mean and its uncertainty. Remember, our goal is to compare the results we obtain from two different masses in order to test our hypothesis. We would like to determine whether or not the results are equivalent to within our experimental error we need to accurately estimate that experimental error. We would also like to reduce the uncertainty as much as possible to make this a more meaningful experiment.
-
 Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data. 
 
 + Use the Chart and axis title dropdown to add a chart title
@@ -98,11 +123,26 @@ Once you have collected a few data points you will want to go back to the chart 
 
 + The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
 
-Once you are happy with your histogram for the first mass, switch to the second tab and collect data for the second mass. Make sure to record all relevant details such as what mass you are using. Always include units when recording data.
 
-## Step 3:Reflection
+</details>
+
+----------------------------------
+
+
+### Step 2: Collect and analyze data
+
+Make sure to record all relevant details such as what mass you are using. Always include units when recording data. If you are switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
+
+As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
+
+
+### Step 3: Reflect and Iterate
 
 It is important to take a moment to reflect on your results. Are there any anomalies in your data? (This is often a reason to collect more data). Are your final results and uncertainties reasonable? How do your results compare with your hypothesis.
+
+At this point, you need to consider if your results are conclusive. Review the section [Iterative Experimental Design](#iterative-experimental-design) above. If your results are inconclusive, then can you think of some reasonable* steps that you can take to improve your measurement? If so, then come up with a revised experimental plan and try it!
+
+**Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 10 more data points will result in a stronger conclusion, then we encourage you to do so!*
 
 ## Checkpiont #3
 
