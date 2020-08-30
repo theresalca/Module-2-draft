@@ -47,7 +47,7 @@ Or maybe you've noticed some uncontrolled factor in your experiment and you need
 
 But often even if things go as planned and we finish taking data according to our experimental design, we can end up with an inconclusive or unclear result. Just because you complete your experimental design, doesn't mean you are done with your experiment! It's far easier to communicate your results when there is a clear conclusion. So it's often worth the effort to revise your plan and take more data, which will save you time trying to communicate your results (which we will do in Week 4).
 
-As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years to build up the knowledge and intuition to comfortably decide "when am I done?". Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion. 
+As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years of experience to build up the knowledge and intuition to comfortably decide "when am I done?". Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion. 
 
 -------
 
