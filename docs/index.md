@@ -1,4 +1,4 @@
-# Module 1
+# Module 2
 
 [Module 2 Overview](#module-2-overview)
 
@@ -11,16 +11,16 @@
 [Background Reading](#background-reading)
 
 
-## Module 1 Overview 
+## Module 2 Overview 
 
 ### Learning Objectives (please fix!)
 
 
-1. Minimize and account for several sources of error, including systematic errors, in an experiment
-
 2. Use experimental data to determine a physical quantity and its associated uncertainty
 
-3. Communicate procedure and results with a sequence of figures
+1. Minimize and account for several sources of error, including systematic errors, in an experiment
+
+3. Communicate reasoning and results with a sequence of figures
 
 In Module 2 you will encounter an experiment designed to determine the value of a physical quantity -- in this case, the viscosity of a glycerin solution.  The theory and experiment will be slightly more complex than in Module 1, and you will have the challenge of considering several possible experimental errors that could contribute to your final result.  Once again we will use three phases to frame your analysis activities in Module 2:
 
